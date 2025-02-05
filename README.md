@@ -1,11 +1,21 @@
-<h6 align="center" style="border-bottom:0px;padding:9px 0 0 0;"> [ v1.2.18 19/09/2023 ] </h6>
-<h1 align="center" style="margin-bottom:32px;border-bottom:0px;"> The Overlord Framework </h1>
+<h6 align="center" style="border-bottom:0px;padding:9px 0 0 0;"> [ v1.2.20 05/02/2025 ] </h6>
+<h1 align="center" style="margin-bottom:32px;border-bottom:0px;"> Overlord </h1>
 
-### Welcome
+### Bio
 
-The Overlord Framework, developed by Easter Company, is the one true full stack framework for developing
-Python/Typescript Web & Mobile applications. General updates are released on an unscheduled basis and LTS
-(long-term-support) versions are released annually.
+The Overlord Framework, developed by Easter Company, is a lazy full stack framework for developing
+Python/Typescript based Web & Mobile applications.
+
+It establishes a development, staging, or production envrionment on a unix system (mac, linux, wsl)
+which includes and requires: Nginx, Redis, SQLite, Python 3.12+, Django & Bun.
+
+Wrapping these technologies and filling in the gaps with an integrated CLI for environment based
+administration, ops & development.
+
+It's literally "copy and paste this one command and, boom, there's my entire optimisied and minified SaSS infrastructure setup... nice."
+don't worry about that stuff. Just develop and deploy to any platform using Python for backend servers and JavaScript or Typescript for
+web, ios, andriod, TV, windows, mac, linux client side applications.
+
 [Watch a short introduction video here.](https://www.easter.company/overlord/introduction)
 
 ### Install
@@ -41,20 +51,7 @@ If you're looking for our beautifully crafted and detailed documentation then yo
 The documentation also includes a full series of tutorial style videos to guide you in a more entertaining fashion;
 however, if you are a well-seasoned professional you may prefer to just read the written format on each page.
 
-### FAQS
-
-**Q:** How do I get started?<br/>
-**A:** Check out the [getting started](https://www.easter.company/overlord/getting_started) page in the documentation.
-
-**Q:** How can I make a feature request?<br/>
-**A:** Email us at [contact@easter.company](mailto:contact@easter.company)
-
-**Q:** How do I use E-Panel with my app?<br/>
-**A:** Until further notice, E-Panel is free-to-use if you've subscribed to a an Easter Company custom app development
-plan in-which Easter Company has designed, developed & deployed an application for you. Otherwise you will need to be
-**invited to the closed beta by an existing user**.
-
 ### Support
 
-If you're interested in helping out then please get in-touch via this email
+If you're interested in contributing then please get in-touch via this email
 [contact@easter.company](mailto:contact@easter.company)
